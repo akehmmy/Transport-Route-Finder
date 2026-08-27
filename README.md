@@ -92,7 +92,15 @@ These multipliers are used to adjust the estimated travel time based on the sele
 
 \## Project Structure
 
+## Screenshots
 
+### Main Interface
+
+![Transport Route Finder Main Interface](screenshots/home%20page.png)
+
+### Map & Route Visualization
+
+![Transport Route Finder Map](screenshots/map%20renderer.png)
 
 ```text
 
